@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Burnpur House",
+        "rooms": 14,
+        "Guest":[
+                    {
+                        "name": "Bhaskar Kumar",
+                        "Designation": "ED Personal",
+                        "room": 3
+                    },
+                    {
+                        "name": "",
+                        "Designation": "ED Personal",
+                        "room": 4
+                    }
+        ]
+    },
+    {
+        "name": "6 The Ridge",
+        "rooms": 7
+    },
+    {
+        "name": "8 The Ridge",
+        "rooms": 6
+    },
+    {
+        "name": "Crescent Guest House",
+        "rooms": 5
+    },
+    {
+        "name": "Riverbank Retreat",
+        "rooms": 4
+    }
+]
